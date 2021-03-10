@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akhil/Downloads/deep_learning/analytics-vidhya/mlruns/1/41eec26e47c74a21960fc2522c06465c/artifacts
+end_time: 1615135281256
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 41eec26e47c74a21960fc2522c06465c
+run_uuid: 41eec26e47c74a21960fc2522c06465c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615135281044
+status: 3
+tags: []
+user_id: akhil

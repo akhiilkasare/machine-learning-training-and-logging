@@ -1,0 +1,4 @@
+artifact_location: file:///home/akhil/Downloads/deep_learning/analytics-vidhya/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: MLflow demo
